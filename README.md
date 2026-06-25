@@ -89,9 +89,9 @@ intan = {
 
 ### `$ ping me`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=c678dd)](https://linkedin.com/in/intanamelia)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=c678dd)](mailto:intanamelia@email.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=c678dd)](https://kaggle.com/intanamelia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=c678dd)](https://linkedin.com/in/namelia)
+[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=c678dd)](mailto:namelia7777@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a2e?style=for-the-badge&logo=kaggle&logoColor=c678dd)](https://instagram.com/eliabrary)
 
 <br>
 
